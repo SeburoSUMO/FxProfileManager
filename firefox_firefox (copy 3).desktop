@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=FxProfileManager
+Comment=Open the Firefox Profile Manager
+Exec=/opt/Nightly/firefox/firefox-bin -P
+Terminal=false
+Type=Application
+Icon=/opt/FxProfileManager/FxProfileManager.png
+Categories=GNOME;GTK;Development;
+
+Name[en_GB]=FxProfileManager
